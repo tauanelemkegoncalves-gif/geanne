@@ -1,0 +1,7 @@
+GEANNE WEAR — SITE MULTIPÁGINAS
+
+Abra index.html para iniciar. Páginas: index.html, feminino.html, masculino.html, colecoes.html e sobre.html.
+Filtros de tipo, tamanho e preço nas páginas de catálogo. A sacola é compartilhada entre as páginas pelo armazenamento local do navegador.
+O checkout abre WhatsApp (41) 98498-3951 com o resumo.
+Produtos, imagens, preços, tecidos e tamanhos são demonstrativos, não representam estoque real. Imagens externas requerem internet.
+Para publicar, envie todos os arquivos HTML juntos ao Netlify ou GitHub Pages.
